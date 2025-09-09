@@ -1,0 +1,6 @@
+rep_idx,acc,asr,initial_acc,initial_asr,input_tokens,output_tokens,total_time_sec,defense_method,gamma,attack_method,attackpos,model_name,dataset_name,dataset_size
+0,0.71,0.024,0.71,0.024,7601465,157463,299.49,sampleMIS,0.9,PIA,0,mistral7b,triviaqa_allrel_perturb,500
+1,0.736,0.028,0.738,0.028,7594945,157833,298.86,sampleMIS,0.9,PIA,0,mistral7b,triviaqa_allrel_perturb,500
+2,0.728,0.024,0.73,0.024,7597305,157597,301.59,sampleMIS,0.9,PIA,0,mistral7b,triviaqa_allrel_perturb,500
+3,0.734,0.02,0.734,0.02,7597119,157955,301.49,sampleMIS,0.9,PIA,0,mistral7b,triviaqa_allrel_perturb,500
+4,0.728,0.024,0.722,0.024,7601968,157804,300.72,sampleMIS,0.9,PIA,0,mistral7b,triviaqa_allrel_perturb,500

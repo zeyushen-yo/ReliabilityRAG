@@ -1,0 +1,3 @@
+defense	attack	corruptionsz	accuracy
+MIS	PIA	2	0.7400
+MIS	PIA	3	0.6900

@@ -1,0 +1,6 @@
+rep_idx,acc,asr,initial_acc,initial_asr,input_tokens,output_tokens,total_time_sec,defense_method,gamma,attack_method,attackpos,model_name,dataset_name,dataset_size
+0,0.55,0.03,0.55,0.03,844279,17249,69.3,MIS,0.9,PIA,4,mistral7b,realtimeqa_sorted,100
+1,0.55,0.03,0.55,0.03,844279,17249,68.66,MIS,0.9,PIA,4,mistral7b,realtimeqa_sorted,100
+2,0.55,0.03,0.55,0.03,844279,17249,68.67,MIS,0.9,PIA,4,mistral7b,realtimeqa_sorted,100
+3,0.56,0.03,0.55,0.03,844279,17249,68.65,MIS,0.9,PIA,4,mistral7b,realtimeqa_sorted,100
+4,0.55,0.03,0.55,0.03,844279,17249,68.67,MIS,0.9,PIA,4,mistral7b,realtimeqa_sorted,100

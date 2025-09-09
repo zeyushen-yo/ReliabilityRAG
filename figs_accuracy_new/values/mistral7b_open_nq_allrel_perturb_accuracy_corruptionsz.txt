@@ -1,0 +1,11 @@
+defense	attack	corruptionsz	accuracy
+Sampling + MIS	PIA	0	0.7100
+Sampling + MIS	PIA	5	0.6480
+Sampling + MIS	PIA	10	0.6184
+Sampling + MIS	PIA	15	0.6004
+Sampling + MIS	PIA	20	0.5856
+RobustRAG (Keyword)	PIA	0	0.5856
+RobustRAG (Keyword)	PIA	5	0.4264
+RobustRAG (Keyword)	PIA	10	0.4216
+RobustRAG (Keyword)	PIA	15	0.4224
+RobustRAG (Keyword)	PIA	20	0.4240
