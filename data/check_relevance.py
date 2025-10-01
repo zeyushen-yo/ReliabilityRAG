@@ -1,5 +1,3 @@
-import os
-from pathlib import Path
 import json
 import numpy as np
 import matplotlib.pyplot as plt
@@ -9,21 +7,8 @@ def contains_answer(context_item, answers):
     text = context_item.get("text", "").lower()
     return any(answer.lower() in title or answer.lower() in text for answer in answers)
 
-def find_repo_root(start: Path) -> Path:
-    cand = start
-    while cand != cand.parent:
-        if (cand / "data").exists() or (cand / ".git").exists() or (cand / "README.md").exists():
-            return cand
-        cand = cand.parent
-    return start
-
-REPO_ROOT = find_repo_root(Path(__file__).resolve().parent)
-DATA_DIR = REPO_ROOT
-FIG_DIR = REPO_ROOT / "figs" / "relevance"
-os.makedirs(FIG_DIR, exist_ok=True)
-
 def compute_fraction_with_answer(dataset):
-    json_path = str(DATA_DIR / f"{dataset}.json")
+    json_path = f"./{dataset}.json"
     with open(json_path, "r", encoding="utf-8") as f:
         data = json.load(f)
 
@@ -78,19 +63,16 @@ def compute_fraction_with_answer(dataset):
         plt.xlim([0, 1])
         plt.ylim([0, 100])
         plt.tight_layout()
-        plt.savefig(str(FIG_DIR / f"{dataset}_relevance_dist.png"))
+        plt.savefig(f"./{dataset}_relevance_dist.png")
     else:
         print("No valid items to evaluate.")
 
 compute_fraction_with_answer("realtimeqa")
 compute_fraction_with_answer("open_nq")
-compute_fraction_with_answer("simpleqa")
 compute_fraction_with_answer("triviaqa")
 compute_fraction_with_answer("realtimeqa_allrel")
 compute_fraction_with_answer("open_nq_allrel")
-compute_fraction_with_answer("simpleqa_allrel")
 compute_fraction_with_answer("triviaqa_allrel")
 #compute_fraction_with_answer("realtimeqa_allrel_perturb")
 #compute_fraction_with_answer("open_nq_allrel_perturb")
-#compute_fraction_with_answer("simpleqa_allrel_perturb")
 #compute_fraction_with_answer("triviaqa_allrel_perturb")

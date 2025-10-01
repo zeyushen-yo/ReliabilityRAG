@@ -261,7 +261,7 @@
       }
     ],
     "choices": [
-      "32%",
+      "10%",
       "15%",
       "45%",
       "50%"
@@ -531,7 +531,7 @@
     ],
     "choices": [
       "England",
-      "Switzerland",
+      "US",
       "Spain",
       "Portugal"
     ],
@@ -804,7 +804,7 @@
       }
     ],
     "choices": [
-      "£15,000",
+      "£2,000",
       "£5,000",
       "£10,000",
       "£25,000"
@@ -1080,7 +1080,7 @@
       }
     ],
     "choices": [
-      "Butterflies",
+      "Praying mantis",
       "Scorpion",
       "Frogs",
       "Spiders"
@@ -1232,7 +1232,7 @@
       }
     ],
     "choices": [
-      "Eliot Spitzer",
+      "Bob Menendez",
       "Donald Trump",
       "George Santos",
       "Malcolm Smith"
@@ -1458,7 +1458,7 @@
       }
     ],
     "choices": [
-      "Adele",
+      "Katy Perry",
       "Miley Cyrus",
       "Rhianna",
       "Beyoncé"
@@ -1734,7 +1734,7 @@
       }
     ],
     "choices": [
-      "Minority Whip John Thune",
+      "Rep. Jim Jordan",
       "Majority Whip Tom Emmer",
       "Majority Leader Steve Scalise",
       "Former President Donald Trump"
@@ -2008,7 +2008,7 @@
       }
     ],
     "choices": [
-      "1.5 million",
+      "10,000",
       "20,000",
       "100,000",
       "200,000"
@@ -2289,7 +2289,7 @@
       }
     ],
     "choices": [
-      "Former Florida Governor Jeb Bush",
+      "Former President Donald Trump",
       "South Carolina Sen. Tim Scott",
       "Tech entrepreneur Vivek Ramaswamy",
       "Former Texas Rep. Will Hurd"
@@ -2825,7 +2825,7 @@
       }
     ],
     "choices": [
-      "Aspartame",
+      "High-fructose corn syrup",
       "Enriched wheat",
       "Red dye No. 3",
       "Red dye 3",
@@ -3096,7 +3096,7 @@
       }
     ],
     "choices": [
-      "Ice Giant Zephyr",
+      "B-15A",
       "C-19",
       "A23a",
       "A-81"
@@ -3316,14 +3316,14 @@
         "link": "https://www.inquirer.com/politics/nikki-haley-endorsement-americans-for-prosperity-koch-brothers-pennsylvania-republican-primary-20231128.html"
       },
       {
-        "title": "Charles Koch-Tied Group Seeks to Block Trump From GOP ...",
-        "text": "A super political action committee with close ties to billionaire Charles Koch raised $78 million in the first half of 2023, money the group ...",
-        "link": "https://www.bloomberg.com/news/articles/2023-07-31/charles-koch-linked-group-raises-78-million-to-stop-trump"
-      },
-      {
         "title": "Americans for Prosperity backs Nikki Haley in GOP primary",
         "text": "As outlined in a memorandum distributed by the anti-Trump organization, CEO Emily Seidel characterized former UN ambassador Haley as a ...",
         "link": "https://m.economictimes.com/news/international/us/americans-for-prosperity-backs-nikki-haley-in-gop-primary-whats-this-group-all-about-why-is-it-against-donald-trump/articleshow/105572277.cms"
+      },
+      {
+        "title": "Charles Koch-Tied Group Seeks to Block Trump From GOP ...",
+        "text": "A super political action committee with close ties to billionaire Charles Koch raised $78 million in the first half of 2023, money the group ...",
+        "link": "https://www.bloomberg.com/news/articles/2023-07-31/charles-koch-linked-group-raises-78-million-to-stop-trump"
       },
       {
         "title": "Conservative megadonors Koch not funding Haley ...",
@@ -3367,7 +3367,7 @@
       }
     ],
     "choices": [
-      "Ted Cruz",
+      "Donald Trump",
       "Nikki Haley",
       "Ron DeSantis",
       "Vivek Ramaswamy"
@@ -3633,7 +3633,7 @@
       }
     ],
     "choices": [
-      "24",
+      "10",
       "14",
       "17",
       "21"
@@ -3911,7 +3911,7 @@
     ],
     "choices": [
       "Authentic",
-      "Innovation",
+      "Deepfake",
       "Rizz",
       "Coronation"
     ],
@@ -4176,7 +4176,7 @@
       }
     ],
     "choices": [
-      "Royal Shadows",
+      "Blame Game",
       "Final Countdown",
       "Succession UK",
       "Endgame"
@@ -4442,7 +4442,7 @@
       }
     ],
     "choices": [
-      "Tulips",
+      "Omelettes",
       "Pancakes",
       "Wraps",
       "Pizzas"
@@ -4587,14 +4587,14 @@
         "link": "https://www.londonreviewbookshop.co.uk/booklists/booker-prize-longlist-2023"
       },
       {
-        "title": "Booker Prize 2023: the shortlisted titles reviewed",
-        "text": "Booker Prize 2023: the shortlisted titles reviewed · Prophet Song — Paul Lynch's Dublin dystopia · Study for Obedience by Sarah Bernstein — an outcast turns the ...",
-        "link": "https://www.ft.com/content/dddbf5b5-781e-41ad-8592-d614a0aecaca"
-      },
-      {
         "title": "Booker Prize 2023: Ireland's Paul Lynch wins with Prophet ...",
         "text": "The 2023 Booker Prize has been awarded to Prophet Song, a dystopian vision of Ireland in the grips of totalitarianism.",
         "link": "https://www.bbc.com/news/entertainment-arts-67537449"
+      },
+      {
+        "title": "Booker Prize 2023: the shortlisted titles reviewed",
+        "text": "Booker Prize 2023: the shortlisted titles reviewed · Prophet Song — Paul Lynch's Dublin dystopia · Study for Obedience by Sarah Bernstein — an outcast turns the ...",
+        "link": "https://www.ft.com/content/dddbf5b5-781e-41ad-8592-d614a0aecaca"
       },
       {
         "title": "'Original and thrilling' Booker Prize 2023 longlist announced",
@@ -4709,7 +4709,7 @@
     ],
     "choices": [
       "Paul Lynch",
-      "Margaret Atwood",
+      "Paul Harding",
       "Paul Murray",
       "Sarah Bernstein"
     ],
@@ -4979,7 +4979,7 @@
       }
     ],
     "choices": [
-      "Reconsider their marketing strategies",
+      "Watch your f***ing backs",
       "Go f*** yourself",
       "Get the f*** back here",
       "Drop dead, f***ers"
@@ -5528,7 +5528,7 @@
     ],
     "choices": [
       "Elon Musk",
-      "Satya Nadella",
+      "Mark Zuckerberg",
       "Jeff Bezos",
       "Tim Cook"
     ],
@@ -5803,7 +5803,7 @@
       }
     ],
     "choices": [
-      "Frozen pizzas",
+      "Lettuce",
       "Fruit",
       "Milk",
       "Beef"
@@ -6069,7 +6069,7 @@
       }
     ],
     "choices": [
-      "Italy",
+      "Greece",
       "Mexico",
       "France",
       "Spain"
@@ -6341,7 +6341,7 @@
     ],
     "choices": [
       "Tunnel",
-      "Bridge",
+      "Hospital",
       "Mall",
       "Stadium"
     ],
@@ -6616,7 +6616,7 @@
       }
     ],
     "choices": [
-      "Houston, Texas",
+      "Daytona Beach, Florida",
       "Myrtle Beach, South Carolina",
       "Nashville, Tennessee",
       "Melbourne/Cocoa Beach, Florida"
@@ -6779,7 +6779,7 @@
       }
     ],
     "choices": [
-      "Candy Cane Cornbread",
+      "Frosted Marshmallow and Sweet Potato",
       "Roast Turkey with Cranberry Frosting",
       "Savory Stuffing",
       "Frosted Green Bean Casserole"
@@ -7050,7 +7050,7 @@
       }
     ],
     "choices": [
-      "Chris Hemsworth",
+      "Pedro Pascal",
       "Cillian Murphy",
       "Harry Styles",
       "Patrick Dempsey"
@@ -7321,7 +7321,7 @@
       }
     ],
     "choices": [
-      "Derek Jeter",
+      "Buck Showalter",
       "Ron Washington",
       "John Farrell",
       "Benji Gil"
@@ -7592,7 +7592,7 @@
       }
     ],
     "choices": [
-      "Florida",
+      "Kansas",
       "Idaho",
       "Ohio",
       "Minnesota"
@@ -7858,7 +7858,7 @@
       }
     ],
     "choices": [
-      "Shawn Mendes",
+      "Taylor Swift",
       "Justin Beiber",
       "Ariana Grande",
       "Bad Bunny"
@@ -8406,7 +8406,7 @@
     ],
     "choices": [
       "Actors",
-      "United Auto Workers",
+      "Teachers",
       "Carpenters",
       "Auto workers"
     ],
@@ -8671,7 +8671,7 @@
       }
     ],
     "choices": [
-      "Los Angeles",
+      "Mexico City",
       "London",
       "Beijing",
       "New Delhi"
@@ -8947,7 +8947,7 @@
       }
     ],
     "choices": [
-      "Texas",
+      "Alabama",
       "Arkansas",
       "Idaho",
       "Ohio"
@@ -9219,7 +9219,7 @@
     ],
     "choices": [
       "Chicken nuggets",
-      "Ice cream",
+      "Hot dogs",
       "Peanut butter",
       "Mustard"
     ],
@@ -9494,7 +9494,7 @@
       }
     ],
     "choices": [
-      "Increased interest rates",
+      "Hacked ATMs",
       "Counterfeit checks",
       "Delayed deposits",
       "Loan scams"
@@ -9769,7 +9769,7 @@
       }
     ],
     "choices": [
-      "Sweet Child o Mine – Guns N Roses",
+      "“Islands in the Stream” – Dolly Parton",
       "“Fast Car” – Tracy Chapman",
       "“Should've Been a Cowboy” – Toby Keith",
       "“Breathe\" – Faith Hill"
@@ -10049,7 +10049,7 @@
       }
     ],
     "choices": [
-      "A bank robbery gone wrong",
+      "A dispute over a stolen vehicle",
       "An argument between a woman, Roderic Grady and another person",
       "A disagreement about a property boundary",
       "A confrontation over a financial transaction"
@@ -10225,7 +10225,7 @@
       }
     ],
     "choices": [
-      "A bank robbery",
+      "Robbery in progress",
       "Child receiving CPR",
       "Drug-related disturbance",
       "Domestic violence"
@@ -10456,7 +10456,7 @@
       }
     ],
     "choices": [
-      "A large bell",
+      "A football",
       "A straw bale",
       "A traffic cone",
       "A fluorescent banner"
@@ -10732,7 +10732,7 @@
       }
     ],
     "choices": [
-      "A swarm of butterflies",
+      "A climate protester",
       "Flies",
       "A crow",
       "Ants"
@@ -10852,6 +10852,11 @@
         "link": "https://www.wsws.org/en/articles/2023/10/16/ravs-o16.html"
       },
       {
+        "title": "Indigenous Voice referendum: Australia's 'Brexit moment'?",
+        "text": "... Australian history\", Al Jazeera reported, No voters argue it would \"divide Australians along racial lines\". Aboriginal and Torres Strait ...",
+        "link": "https://theweek.com/politics/indigenous-voice-referendum-is-this-australias-brexit-moment"
+      },
+      {
         "title": "Explained: Australia's Indigenous Voice referendum",
         "text": "Australians are set to go to polls later this year to say \"yes\" or \"no\" to a proposed law recognising the First Peoples of Australia by forming an ...",
         "link": "https://www.trtworld.com/magazine/explained-australias-indigenous-voice-referendum-12798514"
@@ -10860,11 +10865,6 @@
         "title": "Voice to Parliament referendum explained - YouTube",
         "text": "VOICE REFERENDUM SPECIAL After six weeks of campaigning, Australians will head to the polls tomorrow to vote yes or no to recognising ...",
         "link": "https://www.youtube.com/watch?v=J8cx1h3j8ls"
-      },
-      {
-        "title": "Indigenous Voice referendum: Australia's 'Brexit moment'?",
-        "text": "... Australian history\", Al Jazeera reported, No voters argue it would \"divide Australians along racial lines\". Aboriginal and Torres Strait ...",
-        "link": "https://theweek.com/politics/indigenous-voice-referendum-is-this-australias-brexit-moment"
       },
       {
         "title": "Indigenous Australians call for 'week of silence' after ...",
@@ -11003,7 +11003,7 @@
       }
     ],
     "choices": [
-      "72%",
+      "54%",
       "57%",
       "60%",
       "63%"
@@ -11274,7 +11274,7 @@
       }
     ],
     "choices": [
-      "Lyon",
+      "Dijon",
       "Auxerre",
       "Reims",
       "Poitiers"
@@ -11816,7 +11816,7 @@
       }
     ],
     "choices": [
-      "Canada",
+      "Russia",
       "Myanmar",
       "Ukraine",
       "Israel"
@@ -12361,7 +12361,7 @@
       }
     ],
     "choices": [
-      "Rio de Janeiro",
+      "Barcelona",
       "Venice",
       "Paris",
       "Dubai"
@@ -12632,7 +12632,7 @@
       }
     ],
     "choices": [
-      "Ibuprofen",
+      "Ozempic",
       "Paxlovid",
       "Tylenol",
       "Advil"
@@ -12903,7 +12903,7 @@
       }
     ],
     "choices": [
-      "Pine nuts",
+      "Radishes",
       "Seaweed",
       "Celery",
       "Pumpkins"
@@ -13149,7 +13149,7 @@
       }
     ],
     "choices": [
-      "World History",
+      "English",
       "Engineering and Science",
       "History",
       "Mathematics"
@@ -13416,7 +13416,7 @@
     ],
     "choices": [
       "Over $3.7 million",
-      "Approximately $2.5 million",
+      "Approximately $645,362.75",
       "Less than $1,330",
       "Nearly $2.4 million"
     ],
@@ -13696,7 +13696,7 @@
       }
     ],
     "choices": [
-      "Brandon Tatum",
+      "Colleen Davis",
       "Sarah McBride",
       "Donyale Hall",
       "Eugene Young"
@@ -13962,7 +13962,7 @@
       }
     ],
     "choices": [
-      "7",
+      "14",
       "11",
       "8",
       "5"
@@ -14232,7 +14232,7 @@
       }
     ],
     "choices": [
-      "Herbal Tea",
+      "Health drinks",
       "Jewellery",
       "Face packs",
       "Crockery"
@@ -14774,7 +14774,7 @@
       }
     ],
     "choices": [
-      "Brad Pitt",
+      "Tom Holland",
       "Tom Cruise",
       "Tom Hiddleston",
       "Tom Hanks"
@@ -14839,14 +14839,14 @@
         "link": "https://www.theguardian.com/society/2023/sep/05/cancer-cases-in-under-50s-worldwide-up-nearly-80-in-three-decades-study-finds"
       },
       {
-        "title": "Global, Regional, and National Cancer Incidence, Mortality ...",
-        "text": "For women, breast cancer was the leading cause of cancer death in 2016 (Table). Breast cancer caused 15.1 million (95% UI, 14.3-16.2 million) ...",
-        "link": "https://jamanetwork.com/journals/jamaoncology/fullarticle/2683251"
-      },
-      {
         "title": "Women's cancer deaths expected to rise 60% by 2030",
         "text": "Cancer deaths in women are expected to increase to 5.5 million by 2030, says the American Cancer Society.",
         "link": "https://www.cnn.com/2016/11/02/health/women-cancer-deaths-2030/index.html"
+      },
+      {
+        "title": "Global, Regional, and National Cancer Incidence, Mortality ...",
+        "text": "For women, breast cancer was the leading cause of cancer death in 2016 (Table). Breast cancer caused 15.1 million (95% UI, 14.3-16.2 million) ...",
+        "link": "https://jamanetwork.com/journals/jamaoncology/fullarticle/2683251"
       },
       {
         "title": "Cancer Statistics - NCI",
@@ -14899,14 +14899,14 @@
         "link": "https://www.researchgate.net/publication/354353327_Forecasting_lung_cancer_incidence_mortality_and_prevalence_to_year_2030"
       },
       {
-        "title": "As cancer cases rise among younger adults, some types of ...",
-        "text": "Scientists have long known that cancer cases among adults younger than 50 have been on the rise in many parts of the world. But a new study ...",
-        "link": "https://www.cnn.com/2023/09/05/health/as-cancer-cases-rise-among-younger-adults-some-types-of-the-disease-have-higher-burden-than-others-study-finds/index.html"
-      },
-      {
         "title": "Breast Cancer In Women Over 60",
         "text": "The National Cancer Institute estimates that 1 in 8 women living in the United States will be diagnosed with breast cancer in their lifetime.",
         "link": "https://www.pharmdlive.com/blog/breast-cancer-in-women-over-60/"
+      },
+      {
+        "title": "As cancer cases rise among younger adults, some types of ...",
+        "text": "Scientists have long known that cancer cases among adults younger than 50 have been on the rise in many parts of the world. But a new study ...",
+        "link": "https://www.cnn.com/2023/09/05/health/as-cancer-cases-rise-among-younger-adults-some-types-of-the-disease-have-higher-burden-than-others-study-finds/index.html"
       },
       {
         "title": "Breast Cancer Statistics | How Common Is Breast Cancer?",
@@ -15046,7 +15046,7 @@
     ],
     "choices": [
       "Obesity",
-      "Sun exposure",
+      "Smoking",
       "UV radiation",
       "Alcohol"
     ],
@@ -15317,7 +15317,7 @@
     ],
     "choices": [
       "Narges Mohammadi",
-      "Malala Yousafzai",
+      "Mahbouba Seraj",
       "Ales Bialiatski",
       "Abiy Ahmed Ali"
     ],
@@ -15588,7 +15588,7 @@
     ],
     "choices": [
       "Kevin McCarthy",
-      "Mitch McConnell",
+      "Jim Jordan",
       "Steve Scalise",
       "Tom Emmer"
     ],
@@ -15858,7 +15858,7 @@
       }
     ],
     "choices": [
-      "Influenza test kits",
+      "Flu shots",
       "Face masks",
       "Face shields",
       "Covid-19 vaccination cards"
@@ -16130,7 +16130,7 @@
     ],
     "choices": [
       "NATO",
-      "United Nations",
+      "FBI",
       "CIA",
       "UN"
     ],
@@ -16395,7 +16395,7 @@
       }
     ],
     "choices": [
-      "$105,500",
+      "$51,798",
       "$67,830",
       "$81,000",
       "$89,500"
@@ -16838,7 +16838,7 @@
     ],
     "choices": [
       "Deforestation",
-      "Global warming",
+      "Climate change",
       "Competition for resources",
       "Predators"
     ],
@@ -17108,7 +17108,7 @@
       }
     ],
     "choices": [
-      "$15.7 billion",
+      "$6.2 billion",
       "$9.8 billion",
       "$12.2 billion",
       "$15.5 billion"
@@ -17385,7 +17385,7 @@
       }
     ],
     "choices": [
-      "Tyler Branson",
+      "Walter Bailey",
       "Jim Krapf",
       "Brian Sklodowski",
       "Keith Mumford"
@@ -17660,7 +17660,7 @@
       }
     ],
     "choices": [
-      "Patriots",
+      "Animals",
       "Snowflakes",
       "Vermin",
       "Pests"
@@ -18473,7 +18473,7 @@
       }
     ],
     "choices": [
-      "New York",
+      "Los Angeles",
       "San Francisco",
       "Washington D.C.",
       "New York City"
@@ -18739,7 +18739,7 @@
       }
     ],
     "choices": [
-      "$85 million",
+      "$25 million",
       "$31 million",
       "$47 million",
       "$60 million"
@@ -19016,7 +19016,7 @@
       }
     ],
     "choices": [
-      "2-1",
+      "3-2",
       "3-3",
       "4-2",
       "4-4"
@@ -19282,7 +19282,7 @@
       }
     ],
     "choices": [
-      "Rimini",
+      "Lecce",
       "Ladispoli",
       "Lignano Sabbiadoro",
       "Levanzo"
@@ -19553,7 +19553,7 @@
       }
     ],
     "choices": [
-      "Oliver Dowden",
+      "Steve Barclay",
       "Victoria Atkins",
       "Ben Wallace",
       "Jeremy Hunt"
@@ -19824,7 +19824,7 @@
       }
     ],
     "choices": [
-      "New York City",
+      "Chicago",
       "Boston",
       "Washington, DC",
       "Philadelphia"
@@ -19869,6 +19869,11 @@
         "link": "https://www.washingtonpost.com/wellness/2023/12/19/fda-applesauce-lead-ecuador-cinnamon/"
       },
       {
+        "title": "Health Alert Network (HAN) - 00500 | High Blood Lead Levels ...",
+        "text": "State partners tested multiple lots of the reported products, and test results indicated the products contained extremely high levels of lead.",
+        "link": "https://emergency.cdc.gov/han/2023/han00500.asp"
+      },
+      {
         "title": "FDA says WanaBana fruit puree pouches may contain ...",
         "text": "State health officials analyzed multiple lots of the product and detected “extremely high” concentrations of lead. The FDA confirmed the ...",
         "link": "https://www.seattletimes.com/business/fda-says-wanabana-fruit-puree-pouches-may-contain-dangerous-levels-of-lead/"
@@ -19892,11 +19897,6 @@
         "title": "FDA says WanaBana fruit puree pouches may contain ...",
         "text": "State health officials analyzed multiple lots of the product and detected “extremely high” concentrations of lead. The FDA confirmed the ...",
         "link": "https://wtop.com/national/2023/10/fda-says-wanabana-fruit-puree-pouches-may-contain-dangerous-levels-of-lead/"
-      },
-      {
-        "title": "Health Alert Network (HAN) - 00500 | High Blood Lead Levels ...",
-        "text": "State partners tested multiple lots of the reported products, and test results indicated the products contained extremely high levels of lead.",
-        "link": "https://emergency.cdc.gov/han/2023/han00500.asp"
       },
       {
         "title": "Toxic toddler fruit pouches: “Extremely high” lead levels ...",
@@ -20009,14 +20009,14 @@
         "link": "https://www.cbsnews.com/news/wanabana-pouches-recall-lead-apple-cinnamon-puree-fda-warns-test-levels/"
       },
       {
-        "title": "Federal Register, Volume 61 Issue 146 (Monday, July 29 ...",
-        "text": "... food manufacturing establishments producing processed cheeses, breakfast cereals, and snack foods. ... extremely high level of initial carcass ...",
-        "link": "https://www.govinfo.gov/content/pkg/FR-1996-07-29/html/96-19132.htm"
-      },
-      {
         "title": "Fruit pouch recall: High lead in WanaBana apple cinnamon ...",
         "text": "According to the FDA, all WanaBana apple cinnamon fruit puree pouches have been recalled by the manufacturer after \"extremely high ...",
         "link": "https://www.weareiowa.com/article/news/nation-world/fruit-pouch-recall-lead-levels-wanabana-apple-cinnamon-fruit/507-dba58555-6720-403c-bac4-1748303a8f05"
+      },
+      {
+        "title": "Federal Register, Volume 61 Issue 146 (Monday, July 29 ...",
+        "text": "... food manufacturing establishments producing processed cheeses, breakfast cereals, and snack foods. ... extremely high level of initial carcass ...",
+        "link": "https://www.govinfo.gov/content/pkg/FR-1996-07-29/html/96-19132.htm"
       },
       {
         "title": "Bodily Sensations Linked to the Consumption of Healthy ...",
@@ -20095,7 +20095,7 @@
       }
     ],
     "choices": [
-      "Salted Pretzels",
+      "String cheese",
       "Applesauce",
       "Carrot sticks",
       "Yogurt"
@@ -20642,7 +20642,7 @@
       }
     ],
     "choices": [
-      "Chile",
+      "Norway",
       "Finland",
       "Iceland",
       "Denmark"
@@ -20914,7 +20914,7 @@
     ],
     "choices": [
       "Supreme Court",
-      "Federal Communications Commission",
+      "House of Representatives",
       "Federal Reserve",
       "Treasury Department"
     ],
@@ -21962,7 +21962,7 @@
       }
     ],
     "choices": [
-      "Penguin",
+      "Bear",
       "Tiger",
       "Lion",
       "Horse"
@@ -22233,7 +22233,7 @@
       }
     ],
     "choices": [
-      "Ted Cruz",
+      "Nikki Haley",
       "Ron DeSantis",
       "Mike Pence",
       "Tim Scott"
@@ -22499,7 +22499,7 @@
       }
     ],
     "choices": [
-      "Nigeria",
+      "Uganda",
       "Kenya",
       "Zimbabwe",
       "Botswana"
@@ -22771,7 +22771,7 @@
     ],
     "choices": [
       "Mike Pence",
-      "Ted Cruz",
+      "Ron DeSantis",
       "Chris Christie",
       "Tim Scott"
     ],
@@ -23036,7 +23036,7 @@
       }
     ],
     "choices": [
-      "The Office",
+      "“Seinfeld”",
       "“Friends”",
       "“The Office”",
       "“Will & Grace”"
@@ -23318,7 +23318,7 @@
       }
     ],
     "choices": [
-      "Hand sanitizers",
+      "Toothpaste",
       "Vitamins",
       "Eye drops",
       "Mouthwash"
@@ -23585,7 +23585,7 @@
       }
     ],
     "choices": [
-      "New York Yankees",
+      "Colorado Rockies",
       "Milwaukee Brewers",
       "San Diego Padres",
       "Texas Rangers"
@@ -23640,6 +23640,11 @@
         "link": "https://www.reuters.com/world/us/bidens-join-military-families-friendsgiving-meal-norfolk-2023-11-19/"
       },
       {
+        "title": "The Bidens are having dinner with service members",
+        "text": "President Joe Biden is visiting naval installations in Virginia for an early kickoff to the Thanksgiving holiday week.",
+        "link": "https://ny1.com/nyc/all-boroughs/news/2023/11/19/the-bidens-start-thanksgiving-early-by-serving-dinner-and-showing--wonka--to-service-members"
+      },
+      {
         "title": "The Bidens are getting an early start on the Thanksgiving ...",
         "text": "President Joe Biden is set to visit naval installations in Virginia for an early kickoff to the Thanksgiving holiday week.",
         "link": "https://www.independent.co.uk/news/world/americas/ap-joe-biden-jill-biden-wilmington-donald-trump-b2450037.html"
@@ -23648,11 +23653,6 @@
         "title": "The Bidens start Thanksgiving early by serving dinner and ...",
         "text": "President Joe Biden is visiting naval installations in Virginia for an early kickoff to the Thanksgiving holiday week.",
         "link": "https://apnews.com/article/biden-thanksgiving-troops-military-norfolk-naval-station-4453eee2e8194cf767d47b1b7e12c563"
-      },
-      {
-        "title": "The Bidens are having dinner with service members",
-        "text": "President Joe Biden is visiting naval installations in Virginia for an early kickoff to the Thanksgiving holiday week.",
-        "link": "https://ny1.com/nyc/all-boroughs/news/2023/11/19/the-bidens-start-thanksgiving-early-by-serving-dinner-and-showing--wonka--to-service-members"
       },
       {
         "title": "Bidens begin Thanksgiving week with service members",
@@ -23782,7 +23782,7 @@
     ],
     "choices": [
       "'Wonka'",
-      "The Batman Returns",
+      "'Aquaman and the Lost Kingdom'",
       "'Migration'",
       "'Chicken Run: Dawn of the Nugget'"
     ],
@@ -24060,7 +24060,7 @@
     ],
     "choices": [
       "Media Matters",
-      "The New York Times",
+      "Correct the Record",
       "Snopes",
       "Fox News"
     ],
@@ -24301,7 +24301,7 @@
     ],
     "choices": [
       "British Library",
-      "National Gallery",
+      "The British Museum",
       "Natural History Museum",
       "Imperial War Museum London"
     ],
@@ -24781,7 +24781,7 @@
       }
     ],
     "choices": [
-      "Dallas Cowboys",
+      "Detroit Lions",
       "San Francisco 49ers",
       "Philadelphia Eagles",
       "Baltimore Ravens"
@@ -25058,7 +25058,7 @@
     ],
     "choices": [
       "Stockton North",
-      "Brighton Pavilion",
+      "Birmingham Hodge Hill",
       "Blackpool South",
       "Bishop Auckland"
     ],
@@ -25323,7 +25323,7 @@
       }
     ],
     "choices": [
-      "Ohio State Buckeyes",
+      "Michigan Wolverines",
       "Texas Longhorns",
       "Alabama Crimson Tide",
       "Florida State Seminoles"
@@ -25855,7 +25855,7 @@
       }
     ],
     "choices": [
-      "Stilton Blue",
+      "Toxic",
       "Minger",
       "Reek",
       "Whiffy"
@@ -26122,7 +26122,7 @@
     ],
     "choices": [
       "Jon Rahm",
-      "Tiger Woods",
+      "Rory McIlroy",
       "Viktor Hovland",
       "Scottie Scheffler"
     ],
@@ -26226,14 +26226,14 @@
         "link": "https://www.southampton.ac.uk/news/2024/01/child-obesity.page"
       },
       {
-        "title": "Projected health and economic effects of the increase in ...",
-        "text": "In a study conducted before the COVID-19 pandemic, NHS costs attributable to overweight and obesity were projected to reach £9·7 billion by 2050 ...",
-        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10807834/"
-      },
-      {
         "title": "Government plans to tackle obesity in England",
         "text": "Obesity costs the NHS around £6.5 billion a year and is the second biggest preventable cause of cancer. Over one in four (26%) adults and ...",
         "link": "https://healthmedia.blog.gov.uk/2023/06/07/government-plans-to-tackle-obesity-in-england/"
+      },
+      {
+        "title": "Projected health and economic effects of the increase in ...",
+        "text": "In a study conducted before the COVID-19 pandemic, NHS costs attributable to overweight and obesity were projected to reach £9·7 billion by 2050 ...",
+        "link": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10807834/"
       },
       {
         "title": "Obesity costing Britain's economy almost £100bn a year",
@@ -26392,7 +26392,7 @@
       }
     ],
     "choices": [
-      "£50 billion",
+      "£10 million",
       "£10 million",
       "£10 billion",
       "£100 billion"

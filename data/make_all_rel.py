@@ -55,5 +55,4 @@ def make_all_relevant(dataset):
 
 make_all_relevant("realtimeqa")
 make_all_relevant("open_nq")
-make_all_relevant("simpleqa")
 make_all_relevant("triviaqa")
