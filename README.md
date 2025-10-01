@@ -52,7 +52,7 @@ Tested with `torch==2.2.1` and `transformers==4.40.1`. This repository should be
 ## Usage
 ```
 python main.py 
---model_name: mistral7b,llama7b,gpt3.5
+--model_name: mistral7b,llama7b,gpt-4o-mini
 --dataset_name: realtimeqa, realtimeqa-mc, open_nq, biogen
 --top_k: 0, 5, 10, 20, etc.
 --attack_method: none, Poison, PIA
