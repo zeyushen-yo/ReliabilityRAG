@@ -20,20 +20,9 @@
 | 
 ├── data   
 |   ├── realtimeqa.json               # a subset of realtimeqa
-|   ├── open_nq.json                  # a (random) subset of the open nq dataset (we only use its first 100 queries)
+|   ├── open_nq.json                  # a (random) subset of the open nq dataset
 |   ├── biogen.json                   # a subset of the biogen dataset
 |   └── ...                 
-
-├── output/                         # generated CSVs and metrics (gitignored)
-├── figs/                           # all generated figures (gitignored)
-│   ├── accuracy/
-│   ├── robustness/
-│   ├── pareto/
-│   ├── accuracy_new/
-│   ├── vary_gamma/
-│   ├── vary_m/
-│   ├── vary_t/
-│   └── relevance/
 ├── plots/                          # plotting scripts (moved from repo root)
 └── scripts/                        # slurm and helper scripts
 
@@ -42,17 +31,10 @@
 
 Tested with `torch==2.2.1` and `transformers==4.40.1`. This repository should be compatible with newer version of packages. `requirements.txt` lists other required packages (with version numbers commented out).
 
-
-## Notes
-1. add your OpenAI keys to `models.py` if you want to run GPT as underlying models; add keys to `llm_eval.py` if you want to run LLM-as-a-judge. 
-(Alternative: running `export OPENAI_API_KEY="YOUR-API-KEY"` in command line)
-2. the `--eta` argument in this repo corresponds to $k\cdot\eta$ discussed in the paper.
-3. `llm_eval.py` might crash occasionally due to GPT's randomness (not following the LLM-as-a-judge output format). Haven't implemented error handling logic. As a workaround, delete any generated files and rerun `llm_eval.py`.
-
 ## Usage
 ```
 python main.py 
---model_name: mistral7b,llama7b,gpt-4o-mini
+--model_name: mistral7b,llama3b,gpt-4o-mini
 --dataset_name: realtimeqa, realtimeqa-mc, open_nq, biogen
 --top_k: 0, 5, 10, 20, etc.
 --attack_method: none, Poison, PIA
@@ -67,7 +49,6 @@ python main.py
 --save_response: add this flag to save the results(responses) for later analysis (currently more useful to bio_gen task)
 --use_cache: add this flag to cache the results(responses) to avoid duplicate running 
 ```
-See `run.sh` for commands to reproduce results in the main body of the paper.
 
 ### Acknowledgements
 This repository builds upon and was adapted from the upstream RobustRAG codebase maintained by inspire-group. See the original repository: [inspire-group/RobustRAG](https://github.com/inspire-group/RobustRAG).
