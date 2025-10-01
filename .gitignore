@@ -11,11 +11,45 @@ temp/
 log
 log_old
 output_old
+# old figure dirs (legacy)
 figs_accuracy
 figs_robustness
 figs_pareto
 figs_pareto_old
-figs
+# unified figures dir
+figs/
+llama3/
+mistral7b/
+scripts/
+configs/
+run.sh
+# outputs and artifacts
+output/
+outputs/
+results/
+logs/
+log/
+log_old/
+*.log
+*.out
+*.err
+# caches
+.cache/
+**/__pycache__/
+.mypy_cache/
+.pytest_cache/
+.ipynb_checkpoints/
+# temporary
+temp/
+tmp/
+*.tmp
+*.bak
+# envs
+.venv/
+venv/
+env/
+# slurm outputs
+slurm-*.out
 scripts/all_cpu.slurm
 scripts/run_cpu.sh
 scripts/test.sh

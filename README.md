@@ -1,13 +1,13 @@
-[Certifiably Robust RAG against Retrieval Corruption](https://arxiv.org/abs/2405.15556)
+ReliabilityRAG: Effective and Provably Robust Defense for RAG-based Web-Search — see the paper: [arXiv PDF](https://www.arxiv.org/pdf/2509.23519)
 
 This project is under active development. There might be some (small) mismatches between this repository and the arXiv preprint.
 
-## Files
+## Repository structure
 
 ```shell
 ├── README.md                        # this file 
 | 
-├── main.py                          # entry point.  
+├── main.py                          # entry point  
 ├── llm_eval.py                      # LLM-as-a-judge for long-form evaluation
 
 | 
@@ -26,8 +26,21 @@ This project is under active development. There might be some (small) mismatches
 |   ├── biogen.json                   # a subset of the biogen dataset
 |   └── ...                 
 
+├── output/                         # generated CSVs and metrics (gitignored)
+├── figs/                           # all generated figures (gitignored)
+│   ├── accuracy/
+│   ├── robustness/
+│   ├── pareto/
+│   ├── accuracy_new/
+│   ├── vary_gamma/
+│   ├── vary_m/
+│   ├── vary_t/
+│   └── relevance/
+├── plots/                          # plotting scripts (moved from repo root)
+└── scripts/                        # slurm and helper scripts
+
 ```
-## Dependency
+## Dependencies
 
 Tested with `torch==2.2.1` and `transformers==4.40.1`. This repository should be compatible with newer version of packages. `requirements.txt` lists other required packages (with version numbers commented out).
 
@@ -56,4 +69,7 @@ python main.py
 --save_response: add this flag to save the results(responses) for later analysis (currently more useful to bio_gen task)
 --use_cache: add this flag to cache the results(responses) to avoid duplicate running 
 ```
-see `run.sh` for commands to reproduce results in the main body of the paper.
+See `run.sh` for commands to reproduce results in the main body of the paper.
+
+### Acknowledgements
+This repository builds upon and was adapted from the upstream RobustRAG codebase maintained by inspire-group. See the original repository: [inspire-group/RobustRAG](https://github.com/inspire-group/RobustRAG).
