@@ -1,4 +1,4 @@
-ReliabilityRAG: Effective and Provably Robust Defense for RAG-based Web-Search — see the paper: [arXiv PDF](https://www.arxiv.org/pdf/2509.23519)
+### ReliabilityRAG: Effective and Provably Robust Defense for RAG-based Web-Search — see the paper: [arXiv PDF](https://www.arxiv.org/pdf/2509.23519)
 
 This project is under active development. There might be some (small) mismatches between this repository and the arXiv preprint.
 

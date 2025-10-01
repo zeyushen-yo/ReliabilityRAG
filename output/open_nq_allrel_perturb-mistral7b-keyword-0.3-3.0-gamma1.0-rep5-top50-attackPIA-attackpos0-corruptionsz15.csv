@@ -1,6 +1,0 @@
-rep_idx,acc,asr,initial_acc,initial_asr,input_tokens,output_tokens,total_time_sec,defense_method,gamma,attack_method,attackpos,model_name,dataset_name,dataset_size
-0,0.422,0.264,0.42,0.264,16312830,303367,254.63,keyword,1.0,PIA,0,mistral7b,open_nq_allrel_perturb,500
-1,0.412,0.264,0.418,0.264,16312824,303379,254.17,keyword,1.0,PIA,0,mistral7b,open_nq_allrel_perturb,500
-2,0.432,0.266,0.432,0.266,16312853,303355,254.31,keyword,1.0,PIA,0,mistral7b,open_nq_allrel_perturb,500
-3,0.424,0.266,0.43,0.266,16312849,303378,253.78,keyword,1.0,PIA,0,mistral7b,open_nq_allrel_perturb,500
-4,0.422,0.266,0.42,0.266,16312808,303385,252.35,keyword,1.0,PIA,0,mistral7b,open_nq_allrel_perturb,500

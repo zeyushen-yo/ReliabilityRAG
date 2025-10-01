@@ -1,3 +1,0 @@
-rep_idx,acc,asr,initial_acc,initial_asr,input_tokens,output_tokens,total_time_sec,defense_method,gamma,attack_method,attackpos,model_name,dataset_name,dataset_size
-0,0.582,0.396,0.582,0.396,3029776,96408,7316.91,sampleMIS,0.9,PIA,0,gpt-4o-mini,triviaqa_sorted,500
-0,0.608,0.354,0.608,0.354,3007189,95734,30803.43,sampleMIS,0.9,PIA,0,gpt-4o-mini,triviaqa_sorted,500
