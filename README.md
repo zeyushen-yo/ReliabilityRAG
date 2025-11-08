@@ -1,4 +1,4 @@
-### ReliabilityRAG: Effective and Provably Robust Defense for RAG-based Web-Search — see the paper: [arXiv PDF](https://www.arxiv.org/pdf/2509.23519, NuerIPS 2025)
+### ReliabilityRAG: Effective and Provably Robust Defense for RAG-based Web-Search — see the paper: [arXiv PDF](https://www.arxiv.org/pdf/2509.23519, NeurIPS 2025)
 
 ## Repository structure
 
