@@ -1,3 +1,5 @@
+
+
 ### ReliabilityRAG: Effective and Provably Robust Defense for RAG-based Web-Search — see the paper: [arXiv PDF](https://www.arxiv.org/pdf/2509.23519, NeurIPS 2025)
 
 ## Repository structure
@@ -38,7 +40,7 @@ python main.py
 --dataset_name: realtimeqa, realtimeqa-mc, open_nq, biogen
 --top_k: 0, 5, 10, 20, etc.
 --attack_method: none, Poison, PIA
---defense_method: none, voting, keyword, decoding
+--defense_method: none, voting, keyword, decoding, instructrag_icl, astuterag
 --alpha
 --beta
 --eta # NOTE!! the eta in this code is actually k\cdot\eta in the paper
@@ -46,7 +48,7 @@ python main.py
 --subsample_iter: only used for some settings in biogen certification
 
 --debug: add this flag to print some extra info for debugging
---save_response: add this flag to save the results(responses) for later analysis (currently more useful to bio_gen task)
+--save_response: add this flag to save the results(responses) for later analysis (currently more useful to biogen task)
 --use_cache: add this flag to cache the results(responses) to avoid duplicate running 
 ```
 
